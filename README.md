@@ -1,1 +1,1 @@
-# SQL-Project---Olympics-
+Data Exploration of Olympics Game Events in SQL" project is a comprehensive analysis of the Olympic Games events, which provides valuable insights into the performance of countries, athletes, and events over time. The project is a great example of how SQL can be used to extract valuable information from large datasets.
